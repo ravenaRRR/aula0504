@@ -1,0 +1,15 @@
+.bg-raphaela {
+    background: url('../img/bat5.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+nav a.bg-raphaela1 {
+    font-family: Poppins;
+}
+
+div img-fluid {
+    width: 500px;
+    ;
+}
